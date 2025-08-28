@@ -31,7 +31,7 @@
         "availableUnits": 1,
         "wifi": false,
         "laundry": false,
-        "privateBathroom": true
+        "privateBathroom": false
     },
     {
         "id": 3,
@@ -53,7 +53,7 @@
         "availableUnits": 1,
         "wifi": true,
         "laundry": false,
-        "privateBathroom": false
+        "privateBathroom": true
     },
     {
         "id": 5,
@@ -108,7 +108,7 @@
         "availableUnits": 6,
         "wifi": true,
         "laundry": true,
-      "privateBathroom": true
+        "privateBathroom": true
     }
   ],
   "users": [
